@@ -2,7 +2,6 @@
 
 - Very weak at OI
 - Working hard for NOIP 2020
-- Hopes to get into provincial team.
 - :pencil2: Kubuntu & fish & Oh My Fish & CP Editor
 - :heart: Loves `apt`
 - :package: Maintaining the [Chinese Academy of Chtholly](https://wiki.sukasuka.cn)
